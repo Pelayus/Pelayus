@@ -1,6 +1,6 @@
 # 🌟 Hola, soy Pelayo 👋
 
-¡Bienvenido a mi rincón de GitHub! 🚀 Soy un apasionado **Desarrollador de Software** con experiencia en **aplicaciones móviles, páginas web y soluciones backend**. Siempre estoy aprendiendo algo nuevo y buscando retos interesantes. 💡
+¡Bienvenido a mi rincón de GitHub! 🚀 Soy un apasionado **Junior** que trabaja en **aplicaciones móviles, páginas web y soluciones backend**. Siempre estoy aprendiendo algo nuevo y buscando retos interesantes. 💡
 
 ---
 
