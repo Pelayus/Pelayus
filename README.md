@@ -47,7 +47,7 @@
 ## 🌟 ¡Contactame!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/pelayo-rodr%C3%ADguez-%C3%A1lvarez-4064b3305/" target="_blank">
+  <a href="https://www.linkedin.com/in/pelayo-rodr%C3%ADguez-%C3%A1lvarez-4064b3305/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rodriguezalvarezpelayo30@gmail.com">
