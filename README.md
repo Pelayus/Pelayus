@@ -42,14 +42,15 @@
   <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- IDEs y editores -->
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />
   
 </div>
-
-
-🔧 **Otras herramientas**:  
-- **Git & GitHub**: Gestión de versiones como un pro 🖋️  
-- **MySQL/MariaDB**: Diseño y optimización de bases de datos 🗄️  
-- **Visual Studio Code, Eclipse e IntelliJ**: Mi espacio de creatividad 👨‍💻  
 
 ---
 
