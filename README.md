@@ -7,11 +7,7 @@
 ## 🧑‍💻 Sobre mí  
 🎓 **Formación**:  
 - FPGS: **DAM, DAW, ASIR**  
-- Bachillerato Científico-Tecnológico  
-
-🌱 **Actualmente aprendiendo**:  
-- Frameworks modernos como **Spring Boot**, **React**... y lenguajes como Python, C++, C#...  
-- Prácticas avanzadas de diseño de software  
+- Bachillerato Científico-Tecnológico
 
 🌍 **Ubicación**:  
 - Gijón, Asturias 🇪🇸    
@@ -72,6 +68,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+<br/>
 
 ✨ *"La creatividad no es más que el comienzo de grandes ideas."*  
 
